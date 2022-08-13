@@ -1,4 +1,5 @@
-### BeginnerCoder21
+### BeginnerCoder21 👩‍💻
+<br>
 ![Github Banner](https://user-images.githubusercontent.com/60263821/184480787-54729947-7cb2-46d5-b14c-cc015577cad5.png)
 
 Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack. I like to work on web development projects and I can also do UI designing, graphic designing and a bit of animation. I’m looking to collaborate on an industry from where i can put my skills into practice.
@@ -17,7 +18,7 @@ Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning 
 <p><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
 <h4>- Databases:</h4>
-<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
 <h4>- UI/UX Designing Softwares:</h4>
