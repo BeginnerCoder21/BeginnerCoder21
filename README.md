@@ -25,14 +25,15 @@ Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning 
 
 <hr>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=BeginnerCoder21&count_private=true&show_icons=true&theme=radical" alt="Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnercoder21&show_icons=true&locale=en&layout=compact" alt="beginnercoder21" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BeginnerCoder21&count_private=true&show_icons=true&theme=radical" alt="Stats" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnercoder21&show_icons=true&locale=en&layout=compact" alt="beginnercoder21" height="200"/></p>
 
-<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anushka-purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-purwar" height="30" width="40" /></a>
-<a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a> <a href="https://github.com/BeginnerCoder21" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="crafterina29" height="30" width="40" /></a>
+<a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a> <a href="https://github.com/BeginnerCoder21" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="crafterina29" height="30" width="40" /></a>
 </p>
+
+
 <!---
 BeginnerCoder21/BeginnerCoder21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
