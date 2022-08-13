@@ -1,7 +1,7 @@
-### Hi there 👋, BeginnerCoder21
+### BeginnerCoder21
 ![Github Banner](https://user-images.githubusercontent.com/60263821/184480787-54729947-7cb2-46d5-b14c-cc015577cad5.png)
 
-I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack. I like to work on web development projects and I can also do UI designing, graphic designing and a bit of animation. I’m looking to collaborate on an industry from where i can put my skills into practice.
+Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack. I like to work on web development projects and I can also do UI designing, graphic designing and a bit of animation. I’m looking to collaborate on an industry from where i can put my skills into practice.
 
 <h3>Skills </h3>
 <h4>- Programming Languages:</h4>
@@ -22,16 +22,16 @@ I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack
 
 <h4>- UI/UX Designing Softwares:</h4>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeginnerCoder21&count_private=true&show_icons=true&theme=radical)
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnercoder21&show_icons=true&locale=en&layout=compact" alt="beginnercoder21" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=BeginnerCoder21&count_private=true&show_icons=true&theme=radical" alt="Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnercoder21&show_icons=true&locale=en&layout=compact" alt="beginnercoder21" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/anushka-purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-purwar" height="30" width="40" /></a>
-<a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a>
+<a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a> <a href="https://github.com/BeginnerCoder21" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="crafterina29" height="30" width="40" /></a>
 </p>
 <!---
 BeginnerCoder21/BeginnerCoder21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
