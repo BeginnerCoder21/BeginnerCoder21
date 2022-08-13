@@ -1,6 +1,6 @@
 ### BeginnerCoder21 👩‍💻
 <br>
-<a href="https://linkedin.com/in/anushka-purwar"><img src="https://user-images.githubusercontent.com/60263821/184480787-54729947-7cb2-46d5-b14c-cc015577cad5.png"  alt="Github Banner"></img></a>
+<a href="https://in.linkedin.com/in/anushka-purwar-58b23a19b"><img src="https://user-images.githubusercontent.com/60263821/184480787-54729947-7cb2-46d5-b14c-cc015577cad5.png"  alt="Github Banner"></img></a>
 
 Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack. I like to work on web development projects and I can also do UI designing, graphic designing and a bit of animation. I’m looking to collaborate on an industry from where i can put my skills into practice.
 
@@ -30,7 +30,7 @@ Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/anushka-purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-purwar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/anushka-purwar](https://in.linkedin.com/in/anushka-purwar-58b23a19b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-purwar" height="30" width="40" /></a>
 <a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a> <a href="https://github.com/BeginnerCoder21" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="crafterina29" height="30" width="40" /></a>
 </p>
 
