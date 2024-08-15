@@ -1,41 +1,80 @@
-### BeginnerCoder21 👩‍💻
-<br>
-<a href="https://in.linkedin.com/in/anushka-purwar-58b23a19b"><img src="https://user-images.githubusercontent.com/60263821/184480787-54729947-7cb2-46d5-b14c-cc015577cad5.png"  alt="Github Banner"></img></a>
+<a href="https://www.linkedin.com/company/datacliq"><img src="banner.png"  alt="Github Banner"></img></a>
 
-Hi there 👋, I'm Anushka Purwar(BeginnerCoder21) from India. I enjoy learning new teach stack. I like to work on data science projects, web development projects and I can also do UI designing, graphic designing and a bit of animation. I’m looking to collaborate on an industry from where i can put my skills into practice.
+<div align="center">
+  <a href="https://www.youtube.com/@DataCliq">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/@DataCliq">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://www.linkedin.com/company/datacliq/">
+    <img alt="Follow DataCliq" title="Follow DataCliq" src="https://img.shields.io/badge/Follow%20us%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+  <a href="https://github.com/BeginnerCoder21">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BeginnerCoder21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</div>
 
-<h3>Skills </h3>
-<h4>- Programming Languages:</h4>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Hi all, I'm Anushka - or call me BeginnerCoder21 👋 <img align="right" src="https://komarev.com/ghpvc/?username=BeginnerCoder21&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Anushka" />
 
-<h4>- Frontend Skills:</h4>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## I'm a Data Analyst, Founder and a Mentor!
 
-<h4>- Backend Skills:</h4>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+- 📍 I’m From Delhi (India)
+- 💻 I am a Fresher
+- 👨‍💻 Data Analyst Enthusiast & a Graphic Designer in my free time
+- 📚 Mentor & Founder of DataCliq
+- 🎙Can work as a Freelancer
 
-<h4>- App Development:</h4>
-<p><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+### 🤝 Connect with me:
 
-<h4>- Databases:</h4>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+[<img alt="DataCliq | YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@DataCliq)
+[<img alt="DataCliq | Medium" src="https://img.shields.io/badge/Medium-00AB6C.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@DataCliq)
+[<img alt="DataCliq | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/datacliq/)
+[<img alt="DataCliq | WhatsApp Channel" src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029VajZJh21CYoQFb8JkW0A)
+[<img alt="DataCliq | Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=link&logo=link&logoColor=white" />](https://mysite219.my.canva.site/anushkapuwar-portfolio)
 
+### 💻 Tech Stack:
 
-<h4>- UI/UX Designing Softwares:</h4>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57.svg?&style=for-the-badge&logo=database&logoColor=white" />&nbsp;
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C300.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
+<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
+<img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 
-<hr>
+### 🛠 Tools:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BeginnerCoder21&count_private=true&show_icons=true&theme=radical" alt="Stats" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnercoder21&show_icons=true&locale=en&layout=compact" alt="beginnercoder21" height="200"/></p>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img alt="JIRA" src="https://img.shields.io/badge/JIRA-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=trello&logoColor=white" />&nbsp;
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white" />&nbsp;
+<img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="[https://linkedin.com/in/anushka-purwar](https://in.linkedin.com/in/anushka-purwar-58b23a19b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-purwar" height="30" width="40" /></a>
-<a href="https://www.behance.net/crafterina29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="crafterina29" height="30" width="40" /></a> <a href="https://github.com/BeginnerCoder21" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="crafterina29" height="30" width="40" /></a>
-</p>
+---
 
+### ⚙️ GitHub Analytics
 
-<!---
-BeginnerCoder21/BeginnerCoder21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerCOder21&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BeginnerCOder21&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤔 Are you stuck in SQL?
+Are you stuck in SQL? Want interview preparation notes? [Check out our latest post here!](https://www.linkedin.com/posts/datacliq_sql-interview-questions-part-1-activity-7228421779390623745-nnhr?utm_source=share&utm_medium=member_desktop) 
+Comment **#interested** on the post and get your Premium notes for FREE!**
+
+[youtube]: https://www.youtube.com/@DataCliq
+[medium]: https://medium.com/@anushka.war21
+[linkedin]: https://www.linkedin.com/in/anushka-purwar-58b23a19b/?originalSubdomain=in
+[portfolio]: https://mysite219.my.canva.site/anushkapuwar-portfolio
+[whatsapp]: https://whatsapp.com/channel/0029VajZJh21CYoQFb8JkW0A
